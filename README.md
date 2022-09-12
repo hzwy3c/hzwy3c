@@ -13,7 +13,7 @@
 
 ---
 
-- 🔭 I’m currently student in <a href="http://www.cumt.edu.cn/">CUMT</a>
+- 🔭 I’m currently student in <a href="http://www.cumt.edu.cn/">CUMT</a>&&<a href="http://www.zju.edu.cn/">ZJU</a>
 - 🌱 I’m currently learning project knowledge
 - 👯 I am very happy to communicate with you
 - 📫 How to reach me: 306760887@qq.com
