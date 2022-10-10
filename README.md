@@ -4,8 +4,8 @@
 
 <p align="center">
   <samp>
-    <a href="https://gugugu404.github.io/">blog</a> ∙
-    <a href="https://github.com/gugugu404">github</a> ∙ 
+    <a href="https://hzwy3c.github.io/">blog</a> ∙
+    <a href="https://github.com/hzwy3c">github</a> ∙ 
     <a href="https://blog.csdn.net/qq_44866969?spm=1000.2115.3001.5343">CSDN</a> ∙ 
     <a href="https://space.bilibili.com/500513291">bilibili</a>
   </samp>
