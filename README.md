@@ -26,7 +26,7 @@
   <img float=left width=51% src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzwy3c&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=hzwy3c&theme=xcode" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=hzwy3c&theme=vue" /> </div>
   <!--
 **gugugu404/gugugu404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
